@@ -68,7 +68,9 @@ Currently interning at **HCL (DevOps & AI DevOps)**, exploring cloud automation 
 
 ## 📢 Connect with Me!
 <p align="left">
-  <a href="https://linkedin.com/in/anvitha-g-rao" target="_blank">
+  <a href="https://www.linkedin.com/in/anvitha-g-rao-ab529324b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50">
   </a>
+  <br>  
+  📧 **Email:** [anvitha8181@gmail.com](mailto:anvitha8181@gmail.com)
 </p>
