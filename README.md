@@ -72,5 +72,6 @@ Currently interning at **HCL (DevOps & AI DevOps)**, exploring cloud automation 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50">
   </a>
   <br>  
-  📧 **Email:** [anvitha8181@gmail.com](mailto:anvitha8181@gmail.com)
+  📧 **Email:** <a href="mailto:anvitha8181@gmail.com">anvitha8181@gmail.com</a>
+
 </p>
