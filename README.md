@@ -16,12 +16,10 @@ Currently interning at **HCL (DevOps & AI DevOps)**, exploring cloud automation 
 ---
 
 ## 🚀 Featured Projects
-- 📜 **[Intelligent Resume Analysis](#)** – AI-powered resume screening with ML & NLP.
-- 🌱 **[Crop Disease Detection](#)** – CNN-based plant disease identification.
-- 🔐 **[Self-Healing Cybersecurity](#)** – AI-driven threat detection & auto-remediation.
-- ☀️ **[Smart Solar Optimization](#)** – AI + IoT energy optimization.
-- 🔥 **[Fire-Fighting Robot](#)** – Autonomous fire detection with IoT alerts.
-- 🕵️‍♀️ **[Keylogger Toolkit](#)** – Ethical hacking research & security analysis.
+- 📜 **Intelligent Resume Analysis]** – AI-powered resume screening with ML & NLP.
+- 🌱 **Crop Disease Detection** – CNN-based plant disease identification.
+- 🔥 **Fire-Fighting Robot** – Autonomous fire detection with IoT alerts.
+- 🕵️‍♀️ **Keylogger Toolkit** – Ethical hacking research & security analysis.
 
 ---
 
