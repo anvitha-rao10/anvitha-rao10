@@ -1,83 +1,53 @@
-<html>
-<head>
-    <title>Anvitha's GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        img {
-            width: 60px;
-            height: 60px;
-            margin: 10px;
-            transition: transform 0.3s;
-        }
-        img:hover {
-            transform: scale(1.1);
-        }
-        .social-icons img {
-            width: 50px;
-            height: 50px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>🌟 Hi there! 👋</h1>
-        <h2>🚀 About Me</h2>
-        <p><strong>👩‍💻 Anvitha</strong> – A Final Year CSE Student passionate about IoT, Cybersecurity, Blockchain, and AI!</p>
-        <p>Currently interning at <strong>HCL</strong> (DevOps & AI DevOps), exploring cloud automation & AI-driven security!</p>
+# 🌟 Hi there! 👋
 
-        <h2>🔥 Expertise & Interests</h2>
-        <ul>
-            <li><strong>Cybersecurity & Ethical Hacking:</strong> AI-driven security, keyloggers, Wi-Fi sniffing.</li>
-            <li><strong>Machine Learning & AI:</strong> NLP, deep learning, predictive analytics.</li>
-            <li><strong>Embedded Systems & IoT:</strong> Smart robots, automation tools, AI-powered IoT.</li>
-            <li><strong>Cloud & DevOps:</strong> AWS EC2, Docker, GitHub Actions.</li>
-            <li><strong>Web & App Development:</strong> Angular, Streamlit, AI-powered dashboards.</li>
-        </ul>
+## 🚀 About Me
+👩‍💻 **Anvitha** – A Final Year CSE Student passionate about **IoT, Cybersecurity, Blockchain, and AI!**  
+Currently interning at **HCL (DevOps & AI DevOps)**, exploring cloud automation & AI-driven security!
 
-        <h2>🚀 Featured Projects</h2>
-        <ul>
-            <li><strong>📜 Intelligent Resume Analysis</strong> – AI-powered resume screening with ML & NLP.</li>
-            <li><strong>🌱 Crop Disease Detection</strong> – CNN-based plant disease identification.</li>
-            <li><strong>🔐 Self-Healing Cybersecurity</strong> – AI-driven threat detection & auto-remediation.</li>
-            <li><strong>☀️ Smart Solar Optimization</strong> – AI + IoT energy optimization.</li>
-            <li><strong>🔥 Fire-Fighting Robot</strong> – Autonomous fire detection with IoT alerts.</li>
-            <li><strong>🕵️‍♀️ Keylogger Toolkit</strong> – Ethical hacking research & security analysis.</li>
-        </ul>
+---
 
-        <h2>🛠️ Languages & Tools</h2>
-        <div>
-            <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular">
-            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow">
-        </div>
+## 🔥 Expertise & Interests
+- 🔐 **Cybersecurity & Ethical Hacking** – AI-driven security, keyloggers, Wi-Fi sniffing.
+- 🤖 **Machine Learning & AI** – NLP, deep learning, predictive analytics.
+- 🏗 **Embedded Systems & IoT** – Smart robots, automation tools, AI-powered IoT.
+- ☁️ **Cloud & DevOps** – AWS EC2, Docker, GitHub Actions.
+- 🌐 **Web & App Development** – Angular, Streamlit, AI-powered dashboards.
 
-        <h2>📊 GitHub Stats</h2>
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anvitha-rao10&show_icons=true&locale=en&layout=compact" alt="Top Languages"></p>
-        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anvitha-rao10&" alt="GitHub Streak"></p>
+---
 
-        <h2>📢 Connect with Me!</h2>
-        <div class="social-icons">
-            <a href="https://linkedin.com/in/anvitha-g-rao" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn">
-            </a>
-        </div>
-    </div>
-</body>
-</html>
+## 🚀 Featured Projects
+- 📜 **[Intelligent Resume Analysis](#)** – AI-powered resume screening with ML & NLP.
+- 🌱 **[Crop Disease Detection](#)** – CNN-based plant disease identification.
+- 🔐 **[Self-Healing Cybersecurity](#)** – AI-driven threat detection & auto-remediation.
+- ☀️ **[Smart Solar Optimization](#)** – AI + IoT energy optimization.
+- 🔥 **[Fire-Fighting Robot](#)** – Autonomous fire detection with IoT alerts.
+- 🕵️‍♀️ **[Keylogger Toolkit](#)** – Ethical hacking research & security analysis.
+
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50">
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anvitha-rao10&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anvitha-rao10&" alt="GitHub Streak">
+</p>
+
+---
+
+## 📢 Connect with Me!
+<p align="left">
+  <a href="https://linkedin.com/in/anvitha-g-rao" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50">
+  </a>
+</p>
