@@ -25,7 +25,28 @@ Currently interning at **HCL (DevOps & AI DevOps)**, exploring cloud automation 
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Tools
+### **💻 Programming Languages**
+- Python, Java, C, JavaScript, HTML, CSS
+
+### **⚡ Cybersecurity & Ethical Hacking**
+- Keyloggers, Wi-Fi Sniffing, AI-driven Security, Penetration Testing
+
+### **🤖 Machine Learning & AI**
+- TensorFlow, Keras, OpenCV, NLP, CNN, Data Analytics
+
+### **🚀 Web & App Development**
+- Angular, Streamlit, React, Node.js, Firebase
+
+### **☁️ Cloud & DevOps**
+- AWS (EC2, S3, Lambda), Docker, GitHub Actions
+
+### **🏗 IoT & Embedded Systems**
+- Arduino, Raspberry Pi, Sensors, Actuators, IoT Automation
+
+---
+
+## 🛠️ Tools I Use
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50">
